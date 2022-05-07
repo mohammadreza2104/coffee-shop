@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './Header.css'
-import './App.css'
+import '../App.css'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faBars, faSearch, faShoppingCart, faTimes} from "@fortawesome/free-solid-svg-icons";
 
